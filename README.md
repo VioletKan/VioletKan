@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I am Kanjanaporn Chuenmaneerat
+I am Kanjanaporn Chuenmaneerat
 <!--
 **VioletKan/VioletKan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
